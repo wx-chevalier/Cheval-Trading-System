@@ -1,0 +1,136 @@
+<mxfile host="65bd71144e">
+    <diagram id="W2SyMvARWdVSzowajOSU" name="第 1 页">
+        <mxGraphModel dx="1019" dy="1756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="17" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" parent="1" source="2" target="4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="天时·看时机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;fontSize=16;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="402" y="40" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;rounded=1;strokeColor=#B20000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#ffffff;fontStyle=1;fillColor=#e51400;" parent="1" source="4" target="5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="地利·选公司" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="708" y="40" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;rounded=1;strokeColor=#B20000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#ffffff;fontStyle=1;fillColor=#e51400;" parent="1" source="5" target="6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="人和·配仓位" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="1014" y="40" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="势成·定买卖" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="1320" y="40" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="9" target="34" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;治理结构&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;管理团队、信息合规&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="966" y="290" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontStyle=1" parent="1" source="11" target="34" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;主营业务&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;业务构成、财务报表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="779" y="290" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="13" target="24" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="宏观政策&lt;br&gt;经济政策，货币政策" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=#C73500;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="390" y="-200" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="14" target="24" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="经济周期&lt;br&gt;经济指标、产业周期" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=#C73500;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="572" y="-200" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="15" target="34" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="行业基本面&lt;br&gt;行业周期、主题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="591" y="290" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="16" target="35" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="时空量价/势能&lt;br&gt;技术指标、形态、筹码、趋势" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontSize=14;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="1179" y="-200" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="24" target="2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="24" target="4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="宏观&lt;br&gt;分析" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=#C73500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;fillColor=#fa6800;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="607" y="-90" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="34" target="4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="34" target="5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="经营&lt;br&gt;分析" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=#001DBC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;fillColor=#0050ef;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="910" y="160" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="35" target="5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="35" target="6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="行为&lt;br&gt;分析" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=#005700;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;fillColor=#008a00;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="1214" y="-90" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="36" target="24" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="地缘政治&lt;br&gt;国际资本" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=#C73500;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="760" y="-200" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="44" target="35" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="投资心理学&lt;br&gt;交易纪律、心态管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontSize=14;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="1357" y="-200" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="45" target="35" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="市场情绪、&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;重大事件&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;涨跌停、龙虎榜&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontSize=14;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="997" y="-200" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="宏观错配&lt;br&gt;Macro Beta" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="402" y="140" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="流动性溢价&lt;br&gt;Liquid Premium" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="1350" y="140" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="产能扩张&lt;br&gt;Growth Alpha" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="402" y="230" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="困境反转&lt;br&gt;Turn around" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="402" y="320" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="主力控筹&lt;div&gt;Chips Converge&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="1350" y="230" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="量化/情绪错杀" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="1350" y="320" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="74" target="34" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="企业估值" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="1154" y="290" width="150" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
